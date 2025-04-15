@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="github-banner.png" alt="Heric Libong – From Journalism to Code" style="max-width:100%;">
-</p>
-
-
-
 # 👋 Hi, I'm Heric Libong!
 
 I'm a passionate Python developer with a background in journalism, now focused on building tools that combine **data**, **APIs**, and **visual storytelling**.  
