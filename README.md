@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Heric Libong!
+# I'm Heric Libong!
 
 I'm a passionate Python developer with a background in journalism, now focused on building tools that combine **data**, **APIs**, and **visual storytelling**.  
 After 20 years as a journalist, I transitioned into tech to create projects that help **explore, analyze, and narrate the world through code**.
