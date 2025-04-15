@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="github-banner.png" alt="Heric Libong – From Journalism to Code" style="max-width:100%;">
+</p>
+
+
+
 # 👋 Hi, I'm Heric Libong!
 
 I'm a passionate Python developer with a background in journalism, now focused on building tools that combine **data**, **APIs**, and **visual storytelling**.  
@@ -7,15 +14,15 @@ After 20 years as a journalist, I transitioned into tech to create projects that
 
 ## 🚀 Current Projects
 
-- 🖼️ [WorldPressPhotoGallery](https://github.com/hericlibong/worldPressPhotoGalery) – Archiving and showcasing award-winning photojournalism
-- 🧠 [DataScope](https://github.com/hericlibong/datascope_project) – 🧭 AI-powered tool for article analysis and idea generation
+- 🖼️ [WorldPressPhotoGallery](https://worldpressphotorating.onrender.com/) – A web app for photojournalism lovers to explore, select, and rate powerful news images with strong visual and journalistic impact.  
+  [[GitHub Repo](https://github.com/hericlibong/worldPressPhotoGalery)]
 
+- 🧠 [DataScope](https://datascope.onrender.com/) – 🧭 An AI-powered tool to analyze articles and generate investigative angles and research suggestions.  
+  [[GitHub Repo](https://github.com/hericlibong/datascope_project)]
 
-- 🚧 Currently in progress...
+- 📊 [beautifulF1](https://github.com/hericlibong/beautifullF1) – Automated visualizations for F1 race charts and statistics. *(in progress)*
 
-- 📊 [beautifulF1](https://github.com/hericlibong/beautifullF1) – Automated F1 race visualizations & charts
-- 📰 [NewsScraper_API](https://github.com/hericlibong/NewsScraper_API) – News extraction and analysis from media sources
-
+- 📰 [NewsScraper_API](https://github.com/hericlibong/NewsScraper_API) – A modular API for scraping, analyzing, and archiving news articles from multiple sources. *(in progress)*
 
 ---
 
@@ -26,7 +33,10 @@ After 20 years as a journalist, I transitioned into tech to create projects that
 
 ---
 
- *“I believe the future of journalism and storytelling lies at the intersection of code, data, and creativity.”*
+*“I believe the future of journalism and storytelling lies at the intersection of code, data, and creativity.”*
+
+
+
 
 
 <!--
